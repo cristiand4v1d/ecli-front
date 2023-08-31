@@ -1,3 +1,6 @@
+/* const apiUrl = "http://localhost:3000" */
+export const apiUrl = "https://ecli.onrender.com"
+
 document.addEventListener("DOMContentLoaded", function () {
     const profileContainer = document.getElementById("user-profile");
     const sel1 = document.getElementById("field1");
@@ -66,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (token) {
         token = token.replace(/^"(.*)"$/, '$1');;
-        fetch('https://ecli.onrender.com/profile', {
+        fetch(`${apiUrl}/profile`, {
             method: 'GET',
             headers: {
                 'Authorization': `${token}`
@@ -91,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 dropdown2.value = data.edad_max; // Valor por defecto para dropdown2
                 selectedValueDropdown2 = dropdown2.value;
 
-                fetch('https://ecli.onrender.com/intereses', {
+                fetch(`${apiUrl}/intereses`, {
                     method: 'GET',
                 })
                     .then(response => response.json())
@@ -135,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 intereses: intereses_selected
             };
             console.log("lemus", data)
-            fetch('https://ecli.onrender.com/actualizar-ususario', {
+            fetch(`${apiUrl}/actualizar-ususario`, {
                 method: 'POST',
                 headers: {
                     'Authorization': `${token}`,
