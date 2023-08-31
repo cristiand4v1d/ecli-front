@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
         };
 
         // Enviar datos al API de inicio de sesión
-        fetch('http://localhost:3000/login', {
+        fetch('https://ecli.onrender.com/login', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
         };
 
         // Enviar datos al API de registro
-        fetch('http://localhost:3000/register', {
+        fetch('https://ecli.onrender.com/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
