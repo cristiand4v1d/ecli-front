@@ -2,6 +2,7 @@
 const apiUrl = "https://ecli.onrender.com"
 
 document.addEventListener("DOMContentLoaded", function () {
+    mostrarSpinner();
     const profileContainer = document.getElementById("user-profile");
     const musicaSelect = document.getElementById("field1");
     const literaturaSelect = document.getElementById("field2");
@@ -20,6 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
     musicaSelect.addEventListener("change", handleSelectChange);
     literaturaSelect.addEventListener("change", handleSelectChangeLectura);
     let token = localStorage.getItem('token')
+    if (!token) {
+        window.location.href = 'index.html';
+    }
     // Agregar evento de clic al botón de Cerrar Sesión
     logoutButton.addEventListener("click", function () {
         // Eliminar el token de localStorage
@@ -85,7 +89,12 @@ document.addEventListener("DOMContentLoaded", function () {
         })
             .then(response => response.json())
             .then(data => {
-                
+                if (data?.message == 'Token no válido') {
+                    localStorage.removeItem("token");
+                    // Redireccionar a la página de inicio de sesión
+                    window.location.href = "index.html";
+                }
+                ocultarSpinner();
                 const profileInfo = `
                 <section class="block">
             <div class="block__main">
@@ -117,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 })
                     .then(response => response.json())
                     .then(interests => {
-                        
+
                         const musica = interests.musica
                         const literatura = interests.literatura
 
@@ -221,7 +230,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Mostrar el spinner cuando se realiza una solicitud al servidor
     function mostrarSpinner() {
-        console.log("lemus")
+       
         document.getElementById("spinnerContainer").style.display = "flex";
     }
 
