@@ -1,0 +1,113 @@
+{
+    "login": {
+        "boton_login": "Log in",
+        "boton_Sign_Up": "Sign Up",
+        "forgot_password": "Forgot your password?",
+        "email_text": "Email",
+        "password_text": "Password"
+    },
+    "sign_up": {
+        "email_text": "Email",
+        "password_text": "Password",
+        "name_text": "Name",
+        "age_text": "Age",
+        "birthdate_text": "What is your birthdate?",
+        "gender": {
+            "text": "Gender",
+            "female": "Female",
+            "male": "Male",
+            "fluid": "Fluid"
+        },
+        "you_like_text": "Which gender would you like to connect with?",
+        "looking_for": {
+            "detail": "Choose the type of relationship you're looking for: ",
+            "text": "What are you looking for?",
+            "serious_relationship": "Serious Relationship",
+            "friendship": "Friendship",
+            "casual_dating": "Casual Dating"
+        },
+        "finish": {
+            "sentence_1": "The magic begins here. Welcome to Eclipse, where true connections are just a heartbeat away. Forget photos; here, we unite souls based on shared dreams and passions. In a world of endless swipes, we bring you face-to-face with genuine bonds. Your safety is our priority, ensuring each match leads to meaningful moments.",
+            "sentence_2": "Immerse yourself in Eclipse, where every encounter is an unexpected adventure. Here, conversations ignite with the spark of the unknown, and each dinner is a door to a new world. Let the magic of genuine connection guide you.",
+            "sentence_3": "Ready for the next step? Press 'Next' and start exploring."
+        },
+        "terms": "I accept the Terms and Conditions"
+    },
+    "logout_text": "Log Out",
+    "tabs": {
+        "home": "Home",
+        "dates": "Matches",
+        "profile": "Profile",
+        "chats": "Chats",
+        "tools": "Tools",
+        "settings": "Settings"
+    },
+    "home": {
+        "slide_1_text": "Welcome to Eclipses!",
+        "slide_2_text": "Safety in your dates always.",
+        "slide_3_text": "Your safety, our priority.",
+        "tips": {
+            "tittle": "How to Have a Great First Date",
+            "1": {
+                "tittle": "Be Yourself",
+                "content": "Authenticity is key. Don't try to be someone you're not. Let your personality shine."
+            },
+            "2": {
+                "tittle": "Ask Open-Ended Questions",
+                "content": "Encourage an interesting conversation by asking questions that require more elaborate answers than a simple 'yes' or 'no'. This will help you get to know your date better."
+            }
+        }
+    },
+    "dates": {
+        "temporary_text": "We're working on the exciting dates section! Soon you'll be able to find the most compatible person with your tastes and interests. Get ready for new connections!"
+    },
+    "interests": {
+        "title_interests": "Interests",
+        "title": {
+            "musica": "Music",
+            "literatura": "Literature",
+            "cine": "Movies",
+            "deportes": "Sports",
+            "viajes": "Travel",
+            "gastronomia": "Gastronomy",
+            "pasatiempos": "Hobbies",
+            "zodiaco": "Zodiac Sign",
+            "educacion": "Education Level",
+            "planes_familiares": "Family Plans",
+            "tipo_personalidad": "Personality Type",
+            "tipo_comunicacion": "Communication Style",
+            "tipo_amor": "Love Language",
+            "mascotas": "Pets",
+            "beber": "Drinking Habits",
+            "fumar": "Smoking Habits",
+            "hacer_ejercicio": "Exercise Habits",
+            "redes_sociales": "Social Media Usage",
+            "habitos_sueño": "Sleep Habits"
+        },
+        "selecciona_intereses": "To help you find the perfect match, we need to get to know you better. Please take a moment to select your likes and interests. This will help us find the best match for you!",
+        "musica": "Explore your musical universe and choose your favorite genres. Find people to share your favorite songs and artists with, the perfect melody for every moment of your life!",
+        "literatura": "Immerse yourself in the world of words and select your favorite literary genres. Find reading companions to explore imaginary worlds together, share captivating stories, and debate about the books that have left you breathless.",
+        "cine": "Discover your cinematic and television affinity. Select the genres that captivate you and find someone to enjoy your favorite movies and shows with.",
+        "deportes": "Are you a sports enthusiast? Choose your favorite disciplines and connect with people who share your passion for sports, whether in the stands or on the field.",
+        "viajes": "Explore your dream destinations and preferred travel experiences. Find adventure companions who are ready to explore the world with you.",
+        "gastronomia": "Indulge in your favorite flavors. Select your preferred cuisines and discover other food lovers.",
+        "pasatiempos": "Immerse yourself in the world of outdoor adventure. Choose your favorite hobbies and connect with people who share your love for nature and the excitement of outdoor activities.",
+        "zodiaco": "Find out how the stars influence your life. Select your zodiac sign and discover people who share your interest in astrology and the influence of signs on personality and relationships.",
+        "educacion": "Share your educational level. Select your level of schooling and find people with a similar mindset, whether they're in college, graduates, or looking to keep learning.",
+        "planes_familiares": "Explore your plans for the future. Select your preferences about having children and find someone to share your family dreams with, whether you want a large family, a small one, or no children at all.",
+        "tipo_personalidad": "Learn more about yourself. Select your personality type and find people you can relate to on a deeper level, whether you're extroverted, introverted, or have other personality traits.",
+        "tipo_comunicacion": "Share your preferred communication style. Choose between messages, calls, video calls, or other forms of communication and find someone who is in tune with your communication preferences.",
+        "tipo_amor": "Explore your love language. Select how you prefer to receive love, whether through gifts, physical touch, compliments, quality time, or other ways, and find someone who can express their love in the way that resonates most with you.",
+        "mascotas": "Discover your love for animals. Select if you have pets or if you would like to have any, and find people who share your love for animals and are willing to include your furry companions in their lives.",
+        "beber": "Share your drinking habits. Select your preferences about drinking and find people who share your habits, whether you enjoy a drink occasionally, prefer to abstain completely, or have other alcohol-related habits.",
+        "fumar": "Explore your smoking habits. Select your preferences about smoking and find people who share your habits, whether you smoke regularly, occasionally, or prefer not to smoke at all.",
+        "hacer_ejercicio": "Share your passion for physical exercise. Select your exercise habits and find people who share your interest in staying active and fit, whether you prefer to play sports, go to the gym, or exercise outdoors.",
+        "redes_sociales": "Discover your presence on social media. Share your activity on social media and find people who are in tune with your online lifestyle, whether you're an active user, an influencer, or prefer to keep a low profile on social media.",
+        "habitos_sueño": "Share your sleep habits. Select your sleep patterns and find people who share your habits, whether you're an early riser, a night owl, or have other sleep-related habits."
+    },
+    "profile": {
+        "age_title": "Age",
+        "age": "Choose the age range you prefer for your partner. This will help find matches that fit your age preferences.",
+        "birthdate_text": "What is your birthdate?"
+    }
+}

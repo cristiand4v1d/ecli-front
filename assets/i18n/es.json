@@ -1,0 +1,114 @@
+{
+    "login": {
+        "boton_login": "Iniciar sesión",
+        "boton_Sign_Up": "Registrarse",
+        "forgot_password": "¿Has olvidado tu contraseña?",
+        "email_text": "Correo",
+        "password_text": "Contraseña"
+    },
+    "sign_up": {
+        "email_text": "Correo",
+        "password_text": "Contraseña",
+        "name_text": "Nombre",
+        "age_text": "Edad",
+        "birthdate": "Fecha de nacimiento",
+        "gender": {
+            "text": "Género",
+            "female": "Femenino",
+            "male": "Masculino",
+            "fluid": "Fluido"
+        },
+        "you_like_text": "¿Con cuál género te gustaría conectar?",
+        "looking_for": {
+            "detail": "Elige el tipo de relación que buscas: ",
+            "text": "¿Que buscas?",
+            "serious_relationship": "Relación seria",
+            "friendship": "Amistad",
+            "casual_dating": "Citas casuales"
+        },
+        "finish": {
+            "sentence_1": "La magia comienza aquí. Bienvenido a Eclipse, donde las conexiones verdaderas están a un latido de distancia. Olvida las fotos; aquí, unimos almas basadas en sueños y pasiones compartidos. En un mundo de deslizamientos infinitos, te traemos cara a cara con lazos genuinos. Tu seguridad es nuestra prioridad, asegurando que cada coincidencia conduzca a momentos que importan.",
+            "sentence_2": "Sumérgete en Eclipse, donde cada encuentro es una aventura inesperada. Aquí, las conversaciones se encienden con la chispa de lo desconocido y cada cena es una puerta a un nuevo mundo. Deja que la magia de la conexión genuina te guíe.",
+            "sentence_3": "¿Listo para el siguiente paso? Presiona ‘Siguiente’ y comienza a explorar."
+        },
+        "terms": "Acepto los Terminos y Condiciones"
+    },
+    "logout_text": "Cerrar sesión",
+    "tabs": {
+        "home": "Inicio",
+        "dates": "Matches",
+        "profile": "Perfil",
+        "chats": "Mensajes",
+        "tools": "Herramientas",
+        "settings": "Configuración"
+    },
+    "home": {
+        "slide_1_text": "¡Bienvenido(a) <br> a Eclipses!",
+        "slide_2_text": "Seguridad en <br> tus citas siempre.",
+        "slide_3_text": "Tu seguridad, <br>nuestra prioridad.",
+        "tips": {
+            "tittle": "Cómo Tener una Gran Primera Cita",
+            "1": {
+                "tittle": "Sé tú mismo",
+                "content": "La autenticidad es clave. No trates de ser alguien que no eres. Deja que tu personalidad brille."
+            },
+            "2": {
+                "tittle": "Haz preguntas abiertas",
+                "content": "Fomenta una conversación interesante haciendo preguntas que requieran respuestas más elaboradas que un simple 'sí' o 'no'. Esto ayudará a conocer mejor a tu cita."
+            }
+        }
+    },
+    "dates": {
+        "temporary_text": "¡Estamos trabajando en la emocionante sección de citas! Pronto podrás encontrar a la persona más compatible con tus gustos e intereses. ¡Prepárate para nuevas conexiones!"
+    },
+    "interests": {
+        "title_interests": "Intereses",
+        "title": {
+            "musica": "Música",
+            "literatura": "Literatura",
+            "cine": "Cine",
+            "deportes": "Deportes",
+            "viajes": "Viajes",
+            "gastronomia": "Gastronomía",
+            "pasatiempos": "Pasatiempos",
+            "zodiaco": "Signo Zodiacal",
+            "educacion": "Nivel de Escolaridad",
+            "planes_familiares": "Planes Familiares",
+            "tipo_personalidad": "Tipo de Personalidad",
+            "tipo_comunicacion": "Tipo de Comunicación",
+            "tipo_amor": "Tipo de Amor",
+            "mascotas": "Mascotas",
+            "beber": "Hábitos de Bebida",
+            "fumar": "Hábitos de Fumar",
+            "hacer_ejercicio": "Hábitos de Ejercicio",
+            "redes_sociales": "Uso de Redes Sociales",
+            "habitos_sueño": "Hábitos de Sueño"
+        },
+        "selecciona_intereses": "Para ayudarte a encontrar la pareja perfecta, necesitamos conocerte mejor. Por favor, tómate un momento para seleccionar tus gustos e intereses. ¡Esto nos ayudará a encontrar el mejor match para ti! ",
+        "musica": "Explora tu universo musical y elige tus géneros favoritos. Encuentra a personas con quienes compartir tus canciones y artistas preferidos, ¡la melodía perfecta para cada momento de tu vida!",
+        "literatura": "Sumérgete en el mundo de las palabras y selecciona tus géneros literarios favoritos. Encuentra compañeros de lectura para explorar mundos imaginarios juntos, compartir historias cautivadoras y debatir sobre los libros que te han dejado sin aliento.",
+        "cine": "Descubre tu afinidad cinematográfica y televisiva. Selecciona los géneros que te cautivan y encuentra a alguien con quien disfrutar de tus películas y programas favoritos.",
+        "deportes": "¿Eres un entusiasta del deporte? Elige tus disciplinas favoritas y conecta con personas que compartan tu pasión por el deporte, ya sea en las gradas o en la cancha.",
+        "viajes": "Explora tus destinos de ensueño y experiencias viajeras preferidas. Encuentra compañeros de aventura que estén listos para explorar el mundo contigo.",
+        "gastronomia": "Deléitate con tus sabores favoritos. Selecciona tus cocinas preferidas y descubre a otros amantes de la buena comida ",
+        "pasatiempos": "Sumérgete en el mundo de la aventura al aire libre. Elige tus pasatiempos favoritos y conéctate con personas que compartan tu amor por la naturaleza y la emoción de las actividades al aire libre.",
+        "zodiaco": "Averigua cómo influyen los astros en tu vida. Selecciona tu signo zodiacal y descubre a personas que comparten tu interés por la astrología y la influencia de los signos en la personalidad y las relaciones.",
+        "educacion": "Comparte tu nivel educativo. Selecciona tu nivel de escolaridad y encuentra a personas con una mentalidad similar, ya sea que estén en la universidad, graduados o buscando seguir aprendiendo.",
+        "planes_familiares": "Explora tus planes para el futuro. Selecciona tus preferencias sobre tener hijos y encuentra a alguien con quien compartir tus sueños familiares, ya sea que desees formar una familia grande, pequeña o no tener hijos en absoluto.",
+        "tipo_personalidad": "Descubre más sobre ti mismo. Selecciona tu tipo de personalidad y encuentra a personas con quienes puedas relacionarte en un nivel más profundo, ya seas extrovertido, introvertido, o tengas otras características de personalidad.",
+        "tipo_comunicacion": "Comparte tu estilo de comunicación preferido. Elige entre mensajes, llamadas, videollamadas u otras formas de comunicación y encuentra a alguien que esté en sintonía con tus preferencias de comunicación.",
+        "tipo_amor": "Explora tu lenguaje de amor. Selecciona cómo prefieres recibir amor, ya sea a través de regalos, contacto físico, cumplidos, tiempo de calidad u otras formas, y encuentra a alguien que pueda expresar su amor de la manera que más te llegue.",
+        "mascotas": "Descubre tu amor por los animales. Selecciona si tienes mascotas o si te gustaría tener alguna, y encuentra a personas que compartan tu amor por los animales y estén dispuestas a incluir a tus compañeros peludos en su vida.",
+        "beber": "Comparte tus hábitos de consumo de alcohol. Selecciona tus preferencias sobre beber y encuentra a personas que compartan tus hábitos, ya sea que disfrutes de una copa ocasionalmente, prefieras abstenerse por completo o tengas otros hábitos relacionados con el alcohol.",
+        "fumar": "Explora tus hábitos de tabaquismo. Selecciona tus preferencias sobre fumar y encuentra a personas que compartan tus hábitos, ya sea que fumes regularmente, ocasionalmente o prefieras no fumar en absoluto.",
+        "hacer_ejercicio": "Comparte tu pasión por el ejercicio físico. Selecciona tus hábitos de ejercicio y encuentra a personas que compartan tu interés por mantenerse activo y en forma, ya sea que prefieras practicar deportes, ir al gimnasio o hacer ejercicio al aire libre.",
+        "redes_sociales": "Descubre tu presencia en las redes sociales. Comparte tu actividad en las redes sociales y encuentra a personas que estén en sintonía con tu estilo de vida en línea, ya sea que seas un usuario activo, un influencer o prefieras mantener un perfil bajo en las redes sociales.",
+        "habitos_sueño": "Comparte tus hábitos de sueño. Selecciona tus patrones de sueño y encuentra a personas que compartan tus hábitos, ya sea que seas madrugador, noctámbulo o tengas otros hábitos relacionados con el sueño."
+    },
+    "profile": {
+        "age_title": "Edad",
+        "age": "Elige el rango de edad que prefieres para tu pareja. Esto ayudará a encontrar coincidencias que se ajusten a tus preferencias de edad.",
+        "birthdate": "Fecha de nacimiento",
+        "birthdate_text": "Cual es tu fecha de nacimiento?"
+    }
+}
